@@ -50,6 +50,9 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
+## To-Do List App Deployment Video: 
+ https://drive.google.com/drive/folders/19GUQgqStKwGqlXGIpFpXBNH1lvuuZ635 
+
 
 “This project is a part of a hackathon run by
 https://www.katomaran.com ”
